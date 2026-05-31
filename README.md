@@ -2,11 +2,6 @@
 
 This is a frontend-based Restaurant Management System developed using HTML, CSS, and JavaScript.
 
-## Team Members
-- Panchakshari Deepthi
-- Tata Durga Bhavani
-- Ulasi Gnaneswari
-
 ## My Contribution
 - Designed Home Page
 - Implemented Reservation Form Validation
